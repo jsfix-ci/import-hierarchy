@@ -30,7 +30,7 @@
   "dependencies": {
     "@typescript-eslint/typescript-estree": "^4.28.5",
     "chai": "^4.3.4",
-    "commander": "^8.1.0"
+    "commander": "^9.4.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.21",
